@@ -1,0 +1,16 @@
+﻿  main.cpp
+C:\Users\Paddy\OneDrive - Abertay University\Abertay University\Year 2\CMP201\Assignment\Unit 1\String Search Comparison\strings\main.cpp(83,8): warning C4244: '=': conversion from 'Position' to 'int', possible loss of data
+C:\Users\Paddy\OneDrive - Abertay University\Abertay University\Year 2\CMP201\Assignment\Unit 1\String Search Comparison\strings\main.cpp(89,8): warning C4244: '=': conversion from 'Position' to 'int', possible loss of data
+C:\Users\Paddy\OneDrive - Abertay University\Abertay University\Year 2\CMP201\Assignment\Unit 1\String Search Comparison\strings\main.cpp(92,16): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Paddy\OneDrive - Abertay University\Abertay University\Year 2\CMP201\Assignment\Unit 1\String Search Comparison\strings\main.cpp(105,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Paddy\OneDrive - Abertay University\Abertay University\Year 2\CMP201\Assignment\Unit 1\String Search Comparison\strings\main.cpp(134,42): warning C4244: 'argument': conversion from 'Position' to 'int', possible loss of data
+C:\Users\Paddy\OneDrive - Abertay University\Abertay University\Year 2\CMP201\Assignment\Unit 1\String Search Comparison\strings\main.cpp(140,42): warning C4244: 'argument': conversion from 'Position' to 'int', possible loss of data
+C:\Users\Paddy\OneDrive - Abertay University\Abertay University\Year 2\CMP201\Assignment\Unit 1\String Search Comparison\strings\main.cpp(147,41): warning C4244: 'argument': conversion from 'Position' to 'int', possible loss of data
+C:\Users\Paddy\OneDrive - Abertay University\Abertay University\Year 2\CMP201\Assignment\Unit 1\String Search Comparison\strings\main.cpp(205,22): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Paddy\OneDrive - Abertay University\Abertay University\Year 2\CMP201\Assignment\Unit 1\String Search Comparison\strings\main.cpp(240,22): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  Generating code
+  1 of 316 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  strings.vcxproj -> C:\Users\Paddy\OneDrive - Abertay University\Abertay University\Year 2\CMP201\Assignment\Unit 1\String Search Comparison\x64\Release\strings.exe
